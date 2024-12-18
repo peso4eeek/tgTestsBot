@@ -1,0 +1,17 @@
+C:\Users\Я\Desktop\tgbot\bin\Debug\net8.0\tgbot.exe
+C:\Users\Я\Desktop\tgbot\bin\Debug\net8.0\tgbot.deps.json
+C:\Users\Я\Desktop\tgbot\bin\Debug\net8.0\tgbot.runtimeconfig.json
+C:\Users\Я\Desktop\tgbot\bin\Debug\net8.0\tgbot.dll
+C:\Users\Я\Desktop\tgbot\bin\Debug\net8.0\tgbot.pdb
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.AssemblyInfo.cs
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.dll
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\refint\tgbot.dll
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.pdb
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.genruntimeconfig.cache
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\ref\tgbot.dll
+C:\Users\Я\Desktop\tgbot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\tgbot\obj\Debug\net8.0\tgbot.csproj.Up2Date
